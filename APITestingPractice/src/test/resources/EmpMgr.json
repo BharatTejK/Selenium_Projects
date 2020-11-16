@@ -1,0 +1,30 @@
+{
+	"employee" : [
+				{	
+					"eFirstName":"Bharat Tej",
+					"eLastName":"Kolavennu"
+				},
+				{	
+					"eFirstName":"Pawan",
+					"eLastName":"Kalyan"
+				},
+				{	
+					"eFirstName":"Sachin",
+					"eLastName":"Tendulkar"
+				}
+				 ],
+	"manager" : [
+				{	
+					"mFirstName":"Hrithik",
+					"mLastName":"Roshan"
+				},
+				{	
+					"mFirstName":"Taraka Rama Rao",
+					"mLastName":"Nandamuri"
+				},
+				{
+					"mFirstName":"Ram Charan Teja",
+					"mLastName":"Konidela"
+				}
+				 ]
+}
